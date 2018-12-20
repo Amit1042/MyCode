@@ -1,0 +1,25 @@
+
+	$("#Ribbon a[id$='Cancel-Large']").hide();
+	$("#Ribbon a[id$='Ribbon.List.Settings']").hide();
+	$("#Ribbon a[id$='Ribbon.List.CustomViews']").hide();
+	$("#Ribbon a[id$='Ribbon.List.ViewFormat']").hide();
+	$("#Ribbon a[id$='Ribbon.List.TagsAndNotes']").hide();
+	$("#Ribbon a[id$='Ribbon.List.Share']").hide();
+	$("#Ribbon a[id$='Ribbon.List.Actions']").hide();
+	$("#Ribbon a[id$='Ribbon.List.CustomizeList']").hide();
+	$("#Ribbon a[id$='Ribbon.List.Settings.ListSettings-Large']").hide();
+	$("#Ribbon a[id$='Ribbon.List-title']").hide();
+    $("#Ribbon a[id$='Ribbon.ListItem-title']").hide();
+  	$("#Ribbon a[id$='Ribbon.Read-title']").hide();
+
+	
+	
+	
+	$("#Ribbon a[id$='Cancel-Large']").hide();
+	$("#Ribbon a[id$='Cancel-Large']").hide();
+	$("#Ribbon a[id$='Cancel-Large']").hide();
+	$("#Ribbon a[id$='Cancel-Large']").hide();
+	$("#Ribbon a[id$='Cancel-Large']").hide();
+	$("#Ribbon a[id$='Cancel-Large']").hide();
+	$("#Ribbon a[id$='Cancel-Large']").hide();
+	$("#Ribbon a[id$='Cancel-Large']").hide();
